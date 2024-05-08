@@ -35,5 +35,24 @@ Para instalar el proyecto, sigue estos pasos:
     npm run start
 
 
+### Aplicación
 
+Al ingresar el app mostrará un login
 
+1. ![Captura de Pantalla](./src/img/image1.png)
+
+Ingresando credenciales correctas se mostrará la lista de tareas creadas
+
+2. ![Captura de Pantalla](./src/img/image2.png)
+
+La App nos permite crear tareas
+
+3. ![Captura de Pantalla](./src/img/image3.png) ![Captura de Pantalla](./src/img/image4.png)
+
+Marcar la tarea como completada o pendiente
+
+4. ![Captura de Pantalla](./src/img/image5.png)
+
+Y eliminar una tarea
+
+5. ![Captura de Pantalla](./src/img/image6.png)
