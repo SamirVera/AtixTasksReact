@@ -1,0 +1,45 @@
+.taskListContainer {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.taskTitle {
+    text-align: center;
+}
+
+.taskList {
+    list-style: none;
+    padding: 0;
+}
+
+.taskItem {
+    margin-bottom: 10px;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.taskInput {
+    margin-left: 10px;
+}
+
+.deleteButton {
+    margin-left: 10px;
+    color: red;
+    cursor: pointer;
+}
+
+.formContainer {
+    display: flex;
+    margin-top: 20px;
+}
+
+.taskInputText {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.createButton {
+    padding: 10px 20px;
+}
